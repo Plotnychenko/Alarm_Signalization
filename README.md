@@ -1,5 +1,5 @@
-Python 3.9
-Eduard Plotnychenko
+# Python 3.9
+# Eduard Plotnychenko
 
 Використовуються API Telegram та API Twilio
 Для роботи API Telegram необхідні дані (https://tlgrm.ru/docs/api/obtaining_api_id)
