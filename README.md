@@ -1,16 +1,15 @@
-Python 3.9\n
-Eduard Plotnychenko
+Python 3.9
 
-Використовуються API Telegram та API Twilio\n
-Для роботи API Telegram необхідні дані (https://tlgrm.ru/docs/api/obtaining_api_id)\n
-api_id - присвоюється після реєстрації на сайті https://my.telegram.org/auth?to=apps відподвідно до документації Telegram
-api_hash - присвоюється після реєстрації на сайті https://my.telegram.org/auth?to=apps відподвідно до документації Telegram
-session_name - будь-яке ім'я.
-chat_name - назва чату з якого необхідно відстежувати повідомлення
+Використовуються API Telegram та API Twilio.
+Для роботи API Telegram необхідні дані (https://tlgrm.ru/docs/api/obtaining_api_id).
+api_id - присвоюється після реєстрації на сайті https://my.telegram.org/auth?to=apps відподвідно до документації Telegram.
+api_hash - присвоюється після реєстрації на сайті https://my.telegram.org/auth?to=apps відподвідно до документації Telegram.
+session_name - будь-яке ім'я для сессії.
+chat_name - назва чату з якого необхідно відстежувати повідомлення.
   
 Для роботи API Twilio необхідні дані:
-twilio_ssid - присвоюється після реєстрації на сайті https://console.twilio.com/
-twilio_token - присвоюється після реєстрації на сайті https://console.twilio.com/
+twilio_ssid - присвоюється після реєстрації на сайті https://console.twilio.com/.
+twilio_token - присвоюється після реєстрації на сайті https://console.twilio.com/.
 twilio_url - після реєстрації на сайті https://console.twilio.com/ необхідно перейти до налаштувань, виставити у випадаючому меню метод GET, скопіювати url и вставити у відповідне місце в коді.
 phone_number - номер телефону З ЯКОГО будуть виконуватись дзвінки. Можна використати той, на який реєструвався аккаунт в Twilio, а можна той, який вони надають.
 dial_number - номери телефонів, на які будуть виконуватись дзвінки. Можна передати списком/кортежем.
