@@ -1,8 +1,8 @@
-# Python 3.9
-# Eduard Plotnychenko
+Python 3.9\n
+Eduard Plotnychenko
 
-Використовуються API Telegram та API Twilio
-Для роботи API Telegram необхідні дані (https://tlgrm.ru/docs/api/obtaining_api_id)
+Використовуються API Telegram та API Twilio\n
+Для роботи API Telegram необхідні дані (https://tlgrm.ru/docs/api/obtaining_api_id)\n
 api_id - присвоюється після реєстрації на сайті https://my.telegram.org/auth?to=apps відподвідно до документації Telegram
 api_hash - присвоюється після реєстрації на сайті https://my.telegram.org/auth?to=apps відподвідно до документації Telegram
 session_name - будь-яке ім'я.
